@@ -1,0 +1,23 @@
+# Simulation Output and Data
+*.qraw
+*.qopraw
+*.qlog
+*.txt
+*.csv
+
+# Compiled C++ / Verilog Artifacts
+*.dll
+*.obj
+*.o
+*.lib
+*.exp
+*.exe
+
+# Generated C++
+V*.cpp
+V*.h
+
+# Temporary Netlists and Intermediate Files
+*.cir
+*.tmp
+*.bak
